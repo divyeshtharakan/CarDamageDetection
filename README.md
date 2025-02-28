@@ -1,4 +1,4 @@
-Car Damage Detection Using Deep Learning
+**Car Damage Detection Using Deep Learning**
 This repository contains the research and implementation details for a final year project. The project focuses on automating the detection and classification of car damage using deep learning techniques.
 
 Table of Contents
